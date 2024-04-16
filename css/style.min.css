@@ -218,7 +218,7 @@ body {
   padding-top: 250px;
   position: relative;
   min-height: 100vh;
-  background: url("../../img/trucks.jpg") top no-repeat;
+  background: url("../img/trucks.jpg") top no-repeat;
   background-size: cover;
 }
 @media (max-width: 1430px) {
@@ -273,7 +273,7 @@ body {
   }
 }
 .reviews__arrow {
-  background: url("../../img/slider/arrow.svg") center no-repeat;
+  background: url("../img/slider/arrow.svg") center no-repeat;
   width: 26px;
   height: 53px;
   position: absolute;
