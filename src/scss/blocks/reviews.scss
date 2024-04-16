@@ -4,7 +4,7 @@
   @include adaptiv-value("padding-top", 250, 50, 1);
   position: relative;
   min-height: 100vh;
-  background: url("../../img/trucks.jpg") top no-repeat;
+  background: url("../img/trucks.jpg") top no-repeat;
   background-size: cover;
   &::before {
     content: "";
@@ -48,7 +48,7 @@
   }
 
   &__arrow {
-    background: url("../../img/slider/arrow.svg") center no-repeat;
+    background: url("../img/slider/arrow.svg") center no-repeat;
     width: 26px;
     height: 53px;
     position: absolute;
